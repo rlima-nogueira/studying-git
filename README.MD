@@ -96,6 +96,16 @@ ou ```git add . ```
 
 ```git branch -D <nome da branch>```
 
+
+</br></br>
+<h2><b>Perguntas e respostas</b></h3></br>
+<p><b>Tenho que usar sempre o git remote add?</b></p>
+<p align="justify">R: O comando git remote add a gente só se usa uma vez, na criação do repositório remoto, depois disso não usamos mais, pois o repositório local (nossa máquina) já está apontando para o nosso github (repositório remoto).</p></br>
+
+<p><b>Se eu dou um merge ele já entende que sempre é pra juntar a branch que eu estou com a master?</b></p>
+<p>Sim. </p>
+
+
 </br>
 <h3><b>Links utéis</b></h3>
 <b><a href="https://git-scm.com/">Download GIT</a></b></br>
@@ -106,7 +116,12 @@ ou ```git add . ```
 
 <h3><b>Cursos gratuitos Git/GitHub</b></h3>
 <b><a href="https://www.udemy.com/course/git-e-github-para-iniciantes/">Git e Github para iniciantes</a></b></br>
-<b><a href="https://digitalinnovation.one">Digital Innovation One</a>
+<b><a href="https://digitalinnovation.one">Digital Innovation One</a></b></br>
+
+
+
+
+
 
 
 
