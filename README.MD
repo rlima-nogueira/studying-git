@@ -102,9 +102,6 @@ ou ```git add . ```
 <p><b>Tenho que usar sempre o git remote add?</b></p>
 <p align="justify">R: O comando git remote add a gente só se usa uma vez, na criação do repositório remoto, depois disso não usamos mais, pois o repositório local (nossa máquina) já está apontando para o nosso github (repositório remoto).</p></br>
 
-<p><b>Se eu dou um merge ele já entende que sempre é pra juntar a branch que eu estou com a master?</b></p>
-<p>Sim. </p>
-
 
 </br>
 <h3><b>Links utéis</b></h3>
