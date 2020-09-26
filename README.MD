@@ -60,7 +60,7 @@ ou ```git add . ```
 <p>Coloque o mesmo nome do seu projeto remoto (não é obrigatório, mas mantém organizado)</p>
 <img src="https://ik.imagekit.io/twayhlwajl/new_Z7yNkTolj.JPG" alt="Criando repositório" ></br>
 
-<h3>Conectando o repositório local ao repositório remoto<h3>
+<h3>Conectando o repositório local ao repositório remoto</h3>
 
 ```git remote add origin <link do repositório que você criou no github>```
 
