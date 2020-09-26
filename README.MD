@@ -64,7 +64,17 @@ ou ```git add . ```
 
 ```git remote add origin <link do repositório que você criou no github>```
 
-<p></p>
+</br>
+<h2>Clonando um projeto do github</h2>
+
+```git clone <link do repositório>```
+
+</br>
+<h2>Atualizando seu projeto local com o projeto remoto</h2>
+
+``` git pull ```
+</br>
+<p>Este comando busca e baixa os conteúdos de repositórios remotos e faz a atualização imediata ao repositório local para que os conteúdos sejam iguais.</p>
 
 
 </br>
