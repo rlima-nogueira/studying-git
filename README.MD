@@ -1,9 +1,12 @@
-<h1>Configurações básicas GIT</h1>
+<h1 align="center">Estudando Git/GitHub</h1>
 
 <h2>Qual a diferença entre repositório local e repositório remoto?</h2>
 <p>O repositório local é o que fica na sua máquina (git) e repositório remoto é o que fica na nuvem (github).</p></br>
 
-<h3>Comandos básicos</h3>
+<h2>O que são Branchs e pra que elas servem?</h2>
+<p align="justify">Branch é uma "cópia" exata do seu código, porém essa "cópia" só existe para seu repósitorio local (sua máquina). Mas como assim? Por exemplo, você quer implementar uma nova função no seu projeto, porém não tem certeza de que aquilo irá funcionar, então para que seu código permaneça "intacto", ou seja, funcionando, você cria uma branch e desenvolve essa nova função ali, sem fazer nenhuma alteração no código original. </p></br>
+
+<h3><b>Configurações básicas GIT</b></h3>
 <p>Verifique se o Git foi instalado corretamente. Deverá retornar a versão instalada.</p>
 
 ```git --version```
@@ -19,7 +22,9 @@ Configure o Git com os seus dados:
 ```mkdir <nome da pasta>```
 ```cd <nome da pasta>```
 
-<p>Inicialize o repositório git.</p>
+</br>
+
+<h3><b>Inicializando seu projeto com o git</b></h3>
 
 ```git init```
 
@@ -47,6 +52,17 @@ ou ```git add . ```
 ```.gitignore```
 
 <p> Dentro do arquivo, você deve colocar o nome dos arquivos que deseja ignorar </p></br>
+
+<h3>Criando o repositório no Github</h3>
+<p>Clique no botão new ao lado esquerdo da tela do github (imagem abaixo)</p>
+<img src="https://ik.imagekit.io/twayhlwajl/criar_tLdXmzKWg.JPG" alt="Botão new github"></br>
+
+<p>Coloque o mesmo nome do seu projeto remoto (não é obrigatório, mas mantém organizado)</p>
+<img src="https://ik.imagekit.io/twayhlwajl/new_Z7yNkTolj.JPG" alt="Criando repositório" ></br>
+
+<h3>Conectando o repositório local ao repositório remoto<h3>
+
+```git remote add origin <link do repositório que você criou no github>```
 
 Falar sobre os status dos arquivos VERMELHO, AMARELO e VERDE
 
