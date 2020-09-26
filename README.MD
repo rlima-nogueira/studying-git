@@ -58,13 +58,14 @@ ou ```git add . ```
 <img src="https://ik.imagekit.io/twayhlwajl/criar_tLdXmzKWg.JPG" alt="Botão new github"></br>
 
 <p>Coloque o mesmo nome do seu projeto remoto (não é obrigatório, mas mantém organizado)</p>
-<img src="https://ik.imagekit.io/twayhlwajl/new_Z7yNkTolj.JPG" alt="Criando repositório" ></br>
+<img src="https://ik.imagekit.io/twayhlwajl/new_Z7yNkTolj.JPG" alt="Criando repositório" ></br></br>
 
-<h3>Conectando o repositório local ao repositório remoto</h3>
+<h3>Digite este comando no bash do git para conectar o repositório local ao repositório remoto</h3>
 
 ```git remote add origin <link do repositório que você criou no github>```
 
-Falar sobre os status dos arquivos VERMELHO, AMARELO e VERDE
+<p></p>
+
 
 </br>
 <h3><b>Links utéis</b></h3>
