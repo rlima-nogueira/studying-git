@@ -92,7 +92,7 @@ ou ```git add . ```
 
 ```git merge <nome da branche>```
 
-<p>Deleta a branch</p>
+<p>Deleta a branc</p>
 
 ```git branch -D <nome da branch>```
 
