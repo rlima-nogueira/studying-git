@@ -3,9 +3,6 @@
 <h2>Qual a diferença entre repositório local e repositório remoto?</h2>
 <p>O repositório local é o que fica na sua máquina (git) e repositório remoto é o que fica na nuvem (github).</p></br>
 
-<h2>O que são Branchs e pra que elas servem?</h2>
-<p align="justify">Branch é uma "cópia" exata do seu código, porém essa "cópia" só existe para seu repósitorio local (sua máquina). Mas como assim? Por exemplo, você quer implementar uma nova função no seu projeto, porém não tem certeza de que aquilo irá funcionar, então para que seu código permaneça "intacto", ou seja, funcionando, você cria uma branch e desenvolve essa nova função ali, sem fazer nenhuma alteração no código original. </p></br>
-
 <h3><b>Configurações básicas GIT</b></h3>
 <p>Verifique se o Git foi instalado corretamente. Deverá retornar a versão instalada.</p>
 
@@ -74,8 +71,30 @@ ou ```git add . ```
 
 ``` git pull ```
 </br>
-<p>Este comando busca e baixa os conteúdos de repositórios remotos e faz a atualização imediata ao repositório local para que os conteúdos sejam iguais.</p>
+<p>Este comando busca e baixa os conteúdos de repositórios remotos e faz a atualização imediata ao repositório local para que os conteúdos sejam iguais.</p></br>
 
+<h2>O que são Branchs e pra que elas servem?</h2>
+<p align="justify">Branch é uma "cópia" exata do seu código, porém essa "cópia" só existe para seu repósitorio local (sua máquina). Mas como assim? Por exemplo, você quer implementar uma nova função no seu projeto, porém não tem certeza de que aquilo irá funcionar, então para que seu código permaneça "intacto", ou seja, funcionando, você cria uma branch e desenvolve essa nova função ali, sem fazer nenhuma alteração no código original. </p></br>
+
+<p>Só cria a branch, sem entrar nela</p>
+
+``` git branch <criabranch>```
+
+<p> Cria a branch e já entra nela</p>
+
+```git branch -b <criando a brach e mudando pra ela>```
+
+<p>Muda de branch</p>
+
+```git checkout <nome da branche>```
+
+<p>Junta as branchs</p>
+
+```git merge <nome da branche>```
+
+<p>Deleta a branch</p>
+
+```git branch -D <nome da branch>```
 
 </br>
 <h3><b>Links utéis</b></h3>
