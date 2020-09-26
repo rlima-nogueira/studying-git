@@ -50,8 +50,12 @@ Falar sobre os status dos arquivos VERMELHO, AMARELO e VERDE
 <b><a href="https://git-scm.com/">Download GIT</a></b></br>
 <b><a href="https://blog.da2k.com.br/2015/02/08/aprenda-markdown/">Aprenda Markdown </a></b></br>
 <b><a href="https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/"> Comandos importantes</a></b></br>
-<b><a href="https://github.com/github/gitignore">Lista de .gitignore</a></b></br>
-Digital Innovation One tem cursos gratuitos
+<b><a href="https://github.com/github/gitignore">Lista de .gitignore</a></b></br></br>
+
+
+<h3><b>Cursos gratuitos Git/GitHub</b></h3>
+<b><a href="https://www.udemy.com/course/git-e-github-para-iniciantes/">Git e Github para iniciantes</a></b></br>
+<b><a href="https://digitalinnovation.one">Digital Innovation One</a>
 
 
 
