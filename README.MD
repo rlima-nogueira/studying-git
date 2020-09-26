@@ -1,4 +1,9 @@
 <h1>Configurações básicas GIT</h1>
+
+<h2>Qual a diferença entre repositório local e repositório remoto?</h2>
+<p>O repositório local é o que fica na sua máquina (git) e repositório remoto é o que fica na nuvem (github).</p></br>
+
+<h3>Comandos básicos</h3>
 <p>Verifique se o Git foi instalado corretamente. Deverá retornar a versão instalada.</p>
 
 ```git --version```
