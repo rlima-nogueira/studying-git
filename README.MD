@@ -31,14 +31,13 @@ Configure o Git com os seus dados:
 
 <p>Para que o arquivo seja monitorado pelo git</p>
 
-``` git add <nome do arquivo>```
+``` git add <nome do arquivo>``` ou ```git add . ```
+
+<p>Observação: <b>o git add .</b> adiciona todos os arquivos para serem monitorados. </p>
 
 <p>Para gravar suas alterações no arquivo. Coloque uma mensagem objetiva</p>
 
 ``` git commit -m "Inicializando arquivo" ```
-ou ```git add . ```
-
-<p>Observação: o git add . adiciona todos os arquivos para serem monitorados. </p>
 
 <p>Verifica todas as alterações feitas no projeto que está sendo monitorado</p>
 
