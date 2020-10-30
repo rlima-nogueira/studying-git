@@ -87,6 +87,10 @@ Configure o Git com os seus dados:
 
 ```git checkout <nome da branche>```
 
+<p>Baixa a branch remota e muda pra ela</p>
+
+```git checkout -t <nome da branche>``` 
+
 <p>Junta as branchs</p>
 
 ```git merge <nome da branche>```
@@ -95,6 +99,10 @@ Configure o Git com os seus dados:
 <p>Deleta a branch</p>
 
 ```git branch -D <nome da branch>```
+
+<p>Merge Request</p>
+
+```Você solicita um merge request quando precisa que o dono do projeto aceite aquela branch no projeto principal```
 
 
 
