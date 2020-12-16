@@ -81,7 +81,7 @@ Configure o Git com os seus dados:
 
 <p> Cria a branch e já entra nela</p>
 
-```git branch -b <criando a brach e mudando pra ela>```
+```git checkout -b <criando a brach e mudando pra ela>```
 
 <p>Muda de branch</p>
 
@@ -95,6 +95,9 @@ Configure o Git com os seus dados:
 
 ```git merge <nome da branche>```
 
+<p>Baixa todas as branchs remotas</p>
+
+```git fetch ```
 
 <p>Deleta a branch</p>
 
