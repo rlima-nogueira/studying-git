@@ -45,11 +45,16 @@ Configure o Git com os seus dados:
 
 <p>Para que o git não monitore arquivos, é necessário criar um arquivo do tipo</p>
 
-```.gitignore```
+```.gitignore``` </br>
 
-<p> Dentro do arquivo, você deve colocar o nome dos arquivos que deseja ignorar </p></br>
+<img src="https://ik.imagekit.io/twayhlwajl/arquivo_g-vrynOkFh.png" alt="Arquivo .gitignore"></br>
 
-<h3>Criando o repositório no Github</h3>
+
+<p> Dentro do arquivo, você deve colocar o nome dos arquivos que deseja ignorar </p>
+<img src="https://ik.imagekit.io/twayhlwajl/gitignore_N58iF3Taj.png" alt="Arquivo .gitignore"></br></br>
+
+
+<h3><b>Criando o repositório no Github</b></h3>
 <p>Clique no botão new ao lado esquerdo da tela do github (imagem abaixo)</p>
 <img src="https://ik.imagekit.io/twayhlwajl/criar_tLdXmzKWg.JPG" alt="Botão new github"></br>
 
@@ -107,17 +112,15 @@ Configure o Git com os seus dados:
 
 ```Você solicita um merge request quando precisa que o dono do projeto aceite aquela branch no projeto principal```
 
-
-
-
-</br></br>
-<h2><b>Perguntas e respostas</b></h3></br>
+</br>
+<h2><b>Perguntas e respostas</b></h3>
 <p><b>Tenho que usar sempre o git remote add?</b></p>
 <p align="justify">R: O comando git remote add a gente só se usa uma vez, na criação do repositório remoto, depois disso não usamos mais, pois o repositório local (nossa máquina) já está apontando para o nosso github (repositório remoto).</p></br>
 
 <p><b>Conflito no git merge de branchs</b></p>
 <img src="https://ik.imagekit.io/twayhlwajl/conflito_merge_vlbfU7BpK.JPG" />
 
+<p>Neste caso você deve escolher qual o código que deve ficar em sua branch, depois de escolhido basta fazer todo o processo novamente de "git add", "git commit -m " e pronto, sua branch está atualizada e sem conflitos.</p>
 
 </br>
 <h3><b>Links utéis</b></h3>
